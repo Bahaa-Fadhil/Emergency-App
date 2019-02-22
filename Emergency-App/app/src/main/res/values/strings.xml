@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emergency</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="appwidget_text">Emergency</string>
+    <string name="allowGPS">Please give permission to SMS and GPS, the application will not work without it.</string>
+</resources>

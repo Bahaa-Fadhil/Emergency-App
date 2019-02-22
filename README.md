@@ -1,4 +1,4 @@
-# Emergency application
+# Emergency App
 
 The "Emergency" application is an emergency alarm system. An emergency alarm that may be useful to people who come into a situation where they need an easy and quick way to alert someone.
 
